@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://www.saffe.ai</homePageLink>
+		<homePageLink>https://ai-future.tech</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.saffe.ai/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.saffe.ai/xmlrpc.php" />
